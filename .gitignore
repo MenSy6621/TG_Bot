@@ -1,0 +1,20 @@
+# Виртуальное окружение
+venv/
+
+# Конфигурация
+.env
+
+# Базы данных
+*.db
+*.sqlite
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Сборки
+build/
+dist/
